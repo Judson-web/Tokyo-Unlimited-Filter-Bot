@@ -22,7 +22,7 @@ from database.connections_mdb import(
 )
 
 
-@trojanz.on_callback_query()
+@Beluga100000.on_callback_query()
 async def cb_handler(client, query):
 
     if query.data == "start_data":
@@ -47,12 +47,12 @@ async def cb_handler(client, query):
         keyboard = InlineKeyboardMarkup(
             [
                 [
-                    InlineKeyboardButton("How to Deploy?", url="https://youtu.be/hkmc3e7U7R4"),
+                    InlineKeyboardButton("🎥 sᴛᴏʀʏ ᴛɪᴍᴇ ᴄʜᴀɴɴᴇʟ🎥", url="https://t.me/storytym"),
                     InlineKeyboardButton("About Me", callback_data="about_data")
                 ],
                 [
-                    InlineKeyboardButton("BOT Channel", url="https://t.me/TroJanzHEX"),
-                    InlineKeyboardButton("Support Group", url="https://t.me/TroJanzSupport")
+                    InlineKeyboardButton("Official Channel", url="https://t.me/storytimeoG"),
+                    InlineKeyboardButton("PRIMER ROOM SERIES UPDATES", url="https://t.me/PRIMER_ROOM")
                 ]
             ]
         )
@@ -70,7 +70,7 @@ async def cb_handler(client, query):
             [
                 [
                     InlineKeyboardButton(
-                        "SOURCE CODE", url="https://github.com/TroJanzHEX/Unlimited-Filter-Bot")
+                        "SOURCE CODE", url="https://github.com/Judson-web/Unlimited-Filter-Bot")
                 ],
                 [
                     InlineKeyboardButton("BACK", callback_data="help_data"),
