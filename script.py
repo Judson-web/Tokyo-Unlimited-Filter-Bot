@@ -3,6 +3,8 @@ class Script(object):
     START_MSG = """<b>Hy {},
 Im a simple bot which is designed and built for adding filters in any group.
 
+<a href="https://t.me/Beluga100000">ᴍᴀɪɴᴛᴀɪɴᴇᴅ ʙʏ</a>
+
 See <i>/help</i> for commands and more details.</b>
 """
 
