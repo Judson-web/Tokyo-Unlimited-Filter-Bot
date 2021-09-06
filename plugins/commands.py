@@ -235,7 +235,7 @@ async def start(client, message):
             pass
 
 
-@Beluga100000.on_message(filters.command('help') & filters.private)
+@trojanz.on_message(filters.command('help') & filters.private)
 async def help(client, message):
     await message.reply_text(
         text=Script.HELP_MSG,
