@@ -8,22 +8,22 @@
   </a>
 </p>
 <p align="center">
-  <a href="https://github.com/TroJanzHEX/Unlimited-Filter-Bot/stargazers">
-    <img src="https://img.shields.io/github/stars/TroJanzHEX/Unlimited-Filter-Bot?style=social">
+  <a href="https://github.com/Judson-web/Unlimited-Filter-Bot/stargazers">
+    <img src="https://img.shields.io/github/stars/Judson-web/Unlimited-Filter-Bot?style=social">
 
   </a>
   
-  <a href="https://github.com/TroJanzHEX/Unlimited-Filter-Bot/fork">
-    <img src="https://img.shields.io/github/forks/TroJanzHEX/Unlimited-Filter-Bot?label=Fork&style=social">
+  <a href="https://github.com/Judson-web/Unlimited-Filter-Bot/fork">
+    <img src="https://img.shields.io/github/forks/Judson-web/Unlimited-Filter-Bot?label=Fork&style=social">
 
   </a>  
 </p>
 
-[![TroJanz](https://img.shields.io/badge/TroJanzHEX-Channel-orange?style=for-the-badge&logo=telegram)](https://telegram.dog/TroJanzHEX)  
+[![TroJanz](https://img.shields.io/badge/%F0%9F%8E%A5%20s%E1%B4%9B%E1%B4%8F%CA%80%CA%8F%20%E1%B4%9B%C9%AA%E1%B4%8D%E1%B4%87%20%E1%B4%84%CA%9C%E1%B4%80%C9%B4%C9%B4%E1%B4%87%CA%9F%F0%9F%8E%A5-Dark%20Lord-red?style=for-the-badge&logo=telegram)](https://t.me/storytym)  
 ㅤㅤㅤㅤㅤㅤㅤ  
-[![TroJanz](https://img.shields.io/badge/TroJanzHEX-Support-red?style=flat&logo=telegram)](https://telegram.dog/TroJanzSupport)  [![TroJanz](https://img.shields.io/badge/TroJanzHEX-Website-red?style=flat&logo=CodersRank)](https://TroJanzHEX.me)  
+[![TroJanz](https://img.shields.io/badge/Rules-s%E1%B4%9B%E1%B4%8F%CA%80%CA%8F%20%E1%B4%9B%C9%AA%E1%B4%8D%E1%B4%87%20%E1%B4%84%CA%9C%E1%B4%80%C9%B4%C9%B4%E1%B4%87%CA%9F-yellowgreen?style=flat&logo=CodersRank)](https://telegra.ph/STM-FAMILY-RULES-08-19)  
 ㅤㅤㅤㅤㅤㅤㅤ  
-[![MIT license](https://img.shields.io/badge/License-MIT-blue?style=flat)](https://github.com/TroJanzHEX/Unlimited-Filter-Bot/blob/main/LICENSE)  [![Open Source](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/TroJanzHEX/Unlimited-Filter-Bot)
+[![MIT license](https://img.shields.io/badge/License-MIT-blue?style=flat)](https://github.com/Judson-web/Unlimited-Filter-Bot/blob/main/LICENSE)  [![Open Source](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/Judson-web/Unlimited-Filter-Bot)
 
 
 ## An advanced Filter Bot with nearly unlimitted filters!
@@ -76,10 +76,7 @@
 
 [Click here to see tutorial video](https://youtu.be/hkmc3e7U7R4)
 
-Thanks to [InfotelGroup](https://telegram.dog/InFoTel_Group) and [Erich Daniken](https://telegram.dog/ErichDaniken) for the video
-
-
-## Any bugs or errors or suggestions, report at [TroJanzSupport](https://telegram.dog/TroJanzSupport)
+Thanks to [TroJanzHEX](https://telegram.dog/TroJanzHEX) and [Erich Daniken](https://telegram.dog/ErichDaniken)
 
 
 ## Installation
@@ -89,7 +86,7 @@ Thanks to [InfotelGroup](https://telegram.dog/InFoTel_Group) and [Erich Daniken]
 
 ### Deploy in your vps
 ```sh
-git clone https://github.com/TroJanzHEX/Unlimited-Filter-Bot
+git clone https://github.com/Judson-web/Unlimited-Filter-Bot
 cd Unlimited-Filter-Bot
 pip3 install -r requirements.txt
 # <Create config.py appropriately>
@@ -101,11 +98,11 @@ python3 bot.py
 
 * TG_BOT_TOKEN  - Get bot token from @BotFather
 
-* API_ID        - From my.telegram.org (or @UseTGXBot)
+* API_ID        - From my.telegram.org 
 
-* API_HASH      - From my.telegram.org (or @UseTGXBot)
+* API_HASH      - From my.telegram.org 
 
-* AUTH_USERS  - ID of users that can use the bot commands. Get from [MissRose Bot](https://telegram.dog/MissRose_bot) by using /id command
+* AUTH_USERS  - ID of users that can use the bot commands. Get from [Tokyo Bot](https://telegram.dog/filer3_2021_bot) by using /id command
 
 * DATABASE_URI  - Mongo Database URL from https://cloud.mongodb.com/
 
@@ -130,7 +127,7 @@ python3 bot.py
 * DISCONNECT_COMMAND  -  default will be 'disconnect'
 
 EG;  
-![Vars Eg](https://telegra.ph/file/1f956f3491f2f20a9c1ec.jpg)
+![Vars Eg](https://telegra.ph/file/d37c6218a27e6a02c1d73.jpg)
 
 ## Credits
 
