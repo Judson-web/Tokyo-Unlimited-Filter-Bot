@@ -41,10 +41,10 @@ async def addfilter(client, message):
                 chat = await client.get_chat(grpid)
                 title = chat.title
             except:
-                await message.reply_text("Make sure I'm present in your group!!", quote=True)
+                await message.reply_text("Bro Make sure I'm present in your group!!", quote=True)
                 return
         else:
-            await message.reply_text("I'm not connected to any groups!", quote=True)
+            await message.reply_text("Hmm I'm not connected to any groups!", quote=True)
             return
 
     elif (chat_type == "group") or (chat_type == "supergroup"):
@@ -67,14 +67,14 @@ async def addfilter(client, message):
     text = extracted[0].lower()
    
     if not message.reply_to_message and len(extracted) < 2:
-        await message.reply_text("Add some content to save your filter!", quote=True)
+        await message.reply_text("Hey add some content to save your filter!", quote=True)
         return
 
     if (len(extracted) >= 2) and not message.reply_to_message:
         reply_text, btn, alert = parser(extracted[1], text)
         fileid = None
         if not reply_text:
-            await message.reply_text("You cannot have buttons alone, give some text to go with it!", quote=True)
+            await message.reply_text("Bro you cannot have buttons alone, give some text to go with it!", quote=True)
             return
 
     elif message.reply_to_message and message.reply_to_message.reply_markup:
@@ -189,10 +189,10 @@ async def get_all(client, message):
                 chat = await client.get_chat(grpid)
                 title = chat.title
             except:
-                await message.reply_text("Make sure I'm present in your group!!", quote=True)
+                await message.reply_text("Hmm Make sure I'm present in your group!!", quote=True)
                 return
         else:
-            await message.reply_text("I'm not connected to any groups!", quote=True)
+            await message.reply_text(" Bro im not connected to any groups!", quote=True)
             return
 
     elif (chat_type == "group") or (chat_type == "supergroup"):
@@ -246,7 +246,7 @@ async def deletefilter(client, message):
                 chat = await client.get_chat(grpid)
                 title = chat.title
             except:
-                await message.reply_text("Make sure I'm present in your group!!", quote=True)
+                await message.reply_text("Bro Make sure I'm present in your group!!", quote=True)
                 return
         else:
             await message.reply_text("I'm not connected to any groups!", quote=True)
