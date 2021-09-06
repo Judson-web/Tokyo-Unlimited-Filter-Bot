@@ -1,7 +1,7 @@
 class Script(object):
 
     START_MSG = """<b>Hy {},
-Im a simple bot which is designed and built for adding filters in any group.Hit /help for more information.
+Im a simple bot which is designed and built for adding filters in any group.
 
 See <i>/help</i> for commands and more details.</b>
 """
