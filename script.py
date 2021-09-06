@@ -1,9 +1,7 @@
 class Script(object):
 
     START_MSG = """<b>Hy {},
-
-I'm an advanced filter bot with many capabilities!
-There is no practical limits for my filtering capacity :)
+Im a simple bot which is designed and built for adding filters in any group.Hit /help for more information.
 
 See <i>/help</i> for commands and more details.</b>
 """
@@ -48,7 +46,7 @@ See <i>/help</i> for commands and more details.</b>
 <code>/info userid</code>  -  Shows User Information. Use <code>/info</code> as reply to some message for their details!
 
 
-<b>© @TroJanzHEX</b>
+<b>© @Beluga100000</b>
 """
 
 
