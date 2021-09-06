@@ -22,7 +22,7 @@ from database.connections_mdb import(
 )
 
 
-@Beluga100000.on_callback_query()
+@trojanz.on_callback_query()
 async def cb_handler(client, query):
 
     if query.data == "start_data":
