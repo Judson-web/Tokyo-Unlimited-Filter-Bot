@@ -119,7 +119,7 @@ async def bot_status(client,message):
 
     if Config.SAVE_USER == "yes":
         users = await all_users()
-        userstats = f"> __**{users} users have interacted with your bot!**__\n\n"
+        userstats = f"> __**{users} users have interacted with your bot Bro!**__\n\n"
     else:
         userstats = ""
 
@@ -162,14 +162,14 @@ async def bot_status(client,message):
 
                 quota_details = f"""
 
-**Heroku Account Status**
+**Hmm Heroku Account Status**
 
-> __You have **{total} hours** of free dyno quota available each month.__
+> __Bro You have **{total} hours** of free dyno quota available each month.__
 
-> __Dyno hours used this month__ ;
+> __Bro Dyno hours used this month__ ;
         - **{used} hours**  ( {usedperc}% )
 
-> __Dyno hours remaining this month__ ;
+> __Machu Dyno hours remaining this month__ ;
         - **{hours} hours**  ( {leftperc}% )
         - **Approximately {days} days!**
 
@@ -235,7 +235,7 @@ async def start(client, message):
             pass
 
 
-@trojanz.on_message(filters.command('help') & filters.private)
+@Beluga100000.on_message(filters.command('help') & filters.private)
 async def help(client, message):
     await message.reply_text(
         text=Script.HELP_MSG,
@@ -243,12 +243,12 @@ async def help(client, message):
         reply_markup=InlineKeyboardMarkup(
             [
                 [
-                    InlineKeyboardButton("How to Deploy?", url="https://youtu.be/hkmc3e7U7R4"),
+                    InlineKeyboardButton("🎥 sᴛᴏʀʏ ᴛɪᴍᴇ ᴄʜᴀɴɴᴇʟ🎥", url="https://t.me/storytym"),
                     InlineKeyboardButton("About Me", callback_data="about_data")
                 ],
                 [
-                    InlineKeyboardButton("BOT Channel", url="https://t.me/TroJanzHEX"),
-                    InlineKeyboardButton("Support Group", url="https://t.me/TroJanzSupport")
+                    InlineKeyboardButton("Official Channel", url="https://t.me/storytimeoG"),
+                    InlineKeyboardButton("PRIMER ROOM SERIES UPDATES", url="https://t.me/PRIMER_ROOM")
                 ]
             ]
         ),
@@ -265,7 +265,7 @@ async def about(client, message):
             [
                 [
                     InlineKeyboardButton(
-                        "SOURCE CODE", url="https://github.com/TroJanzHEX/Unlimited-Filter-Bot")
+                        "SOURCE CODE VENO😇", url="https://github.com/Judson-web/Unlimited-Filter-Bot")
                 ],
                 [
                     InlineKeyboardButton("BACK", callback_data="help_data"),
