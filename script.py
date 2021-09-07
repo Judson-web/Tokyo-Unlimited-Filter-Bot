@@ -63,6 +63,6 @@ class Script(object):
 
 ⭕️<b>Library :</b> <a href='https://docs.pyrogram.org/'>Pyrogram 1.0.7</a> 
 
-⭕️<b>🎥 sᴛᴏʀʏ ᴛɪᴍᴇ ᴄʜᴀɴɴᴇʟ🎥 :</b> <a href='https://t.me/storytym</a> 
+⭕️<b>🎥 sᴛᴏʀʏ ᴛɪᴍᴇ ᴄʜᴀɴɴᴇʟ🎥 : https://t.me/storytym
 
 """
