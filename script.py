@@ -8,8 +8,7 @@ Im a simple bot which is designed and built for adding filters in any group.
 
 𝑴𝒂𝒊𝒏𝒕𝒂𝒊𝒏𝒆𝒅 𝒃𝒚 <b><a href="https://t.me/Beluga100000">Beluga</a></b></b>
 """       
-<a href="https://t.me/PEAKY_BLINDER_TGP">Tнапк$TѳTнї$Pёя$ѳп </a>
-
+    
 See <i>/help</i> for commands and more details.</b>
 """
 
