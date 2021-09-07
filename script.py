@@ -5,6 +5,9 @@ class Script(object):
 I'm an advanced filter bot with many capabilities!
 There is no practical limits for my filtering capacity :)
 
+<b>/info - 𝒎𝒚 𝒎𝒂𝒔𝒕𝒆𝒓 𝒊𝒏𝒇𝒐𝒓𝒎𝒂𝒕𝒊𝒐𝒏 👩‍🎤</b>
+<b>/repo - 𝒎𝒚 𝒃𝒓𝒂𝒊𝒏 🧠</b>
+
 See <i>/help</i> for commands and more details.</b>
 """
 
@@ -48,13 +51,13 @@ See <i>/help</i> for commands and more details.</b>
 <code>/info userid</code>  -  Shows User Information. Use <code>/info</code> as reply to some message for their details!
 
 
-<b>© @TroJanzHEX</b>
+<b>© @Beluga100000</b>
 """
 
 
-    ABOUT_MSG = """⭕️<b>My Name : TroJanz Filter Bot</b>
+    ABOUT_MSG = """⭕️<b>My Name : Tokyo</b>
 
-⭕️<b>Creater :</b> @TroJanzHEX    
+⭕️<b>Creater :</b> @Beluga100000    
 
 ⭕️<b>Language :</b> <code>Python3</code>
 
