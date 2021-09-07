@@ -249,7 +249,7 @@ async def help(client, message):
                 [
                     InlineKeyboardButton("Official Channel", url="https://t.me/storytimeoG"),
                     InlineKeyboardButton("PRIMER ROOM SERIES UPDATES", url="https://t.me/PRIMER_ROOM")
-                    InlineKeyboardButton("BACK", callback_data="START_MSG"),
+              
                 ]
             ]
         ),
