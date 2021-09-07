@@ -55,7 +55,9 @@ class Script(object):
 """
 
 
-    ABOUT_MSG = """⭕️<b>My Name : Tokyo</b>
+    ABOUT_MSG = """<b>🙋🏻‍♂️   Hellooo   {}🤓,
+    
+⭕️<b>My Name : Tokyo</b>
 
 ⭕️<b>Creater :</b> @Beluga100000 
 
