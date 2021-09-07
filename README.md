@@ -76,8 +76,9 @@
 
 [Click here to see tutorial video](https://youtu.be/hkmc3e7U7R4)
 
-Thanks to [TroJanzHEX](https://telegram.dog/TroJanzHEX) and [Erich Daniken](https://telegram.dog/ErichDaniken)
+Thanks to [TroJanzHEX](https://telegram.dog/TroJanzHEX) and [Erich Daniken](https://telegram.dog/ErichDaniken) also
 
+[[★] ᴘᴇᴀᴋʏ вℓιи∂єя [★]](https://telegram.dog/PEAKY_BLINDER_TGP)
 
 ## Installation
 
