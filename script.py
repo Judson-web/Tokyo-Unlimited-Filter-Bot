@@ -2,13 +2,13 @@ class Script(object):
 
     START_MSG = """<b>Hy {},
 
-I'm an advanced filter bot with many capabilities!
-There is no practical limits for my filtering capacity :)
+𝙄'𝙢 𝙖𝙣 𝙖𝙙𝙫𝙖𝙣𝙘𝙚𝙙 𝙛𝙞𝙡𝙩𝙚𝙧 𝙗𝙤𝙩 𝙬𝙞𝙩𝙝 𝙢𝙖𝙣𝙮 𝙘𝙖𝙥𝙖𝙗𝙞𝙡𝙞𝙩𝙞𝙚𝙨!
+𝙏𝙝𝙚𝙧𝙚 𝙞𝙨 𝙣𝙤 𝙥𝙧𝙖𝙘𝙩𝙞𝙘𝙖𝙡 𝙡𝙞𝙢𝙞𝙩𝙨 𝙛𝙤𝙧 𝙢𝙮 𝙛𝙞𝙡𝙩𝙚𝙧𝙞𝙣𝙜 𝙘𝙖𝙥𝙖𝙘𝙞𝙩𝙮 :)
 
 <b>/info - 𝒎𝒚 𝒎𝒂𝒔𝒕𝒆𝒓 𝒊𝒏𝒇𝒐𝒓𝒎𝒂𝒕𝒊𝒐𝒏 👩‍🎤</b>
 <b>/repo - 𝒎𝒚 𝒃𝒓𝒂𝒊𝒏 🧠</b>
 
-See <i>/help</i> for commands and more details.</b>
+𝙎𝙚𝙚 <i>/help</i> 𝙛𝙤𝙧 𝙘𝙤𝙢𝙢𝙖𝙣𝙙𝙨 𝙖𝙣𝙙 𝙢𝙤𝙧𝙚 𝙙𝙚𝙩𝙖𝙞𝙡𝙨.</b>
 """
 
 
@@ -62,5 +62,7 @@ See <i>/help</i> for commands and more details.</b>
 ⭕️<b>Language :</b> <code>Python3</code>
 
 ⭕️<b>Library :</b> <a href='https://docs.pyrogram.org/'>Pyrogram 1.0.7</a> 
+
+⭕️<b>🎥 sᴛᴏʀʏ ᴛɪᴍᴇ ᴄʜᴀɴɴᴇʟ🎥 :</b> <a href='https://t.me/storytym</a> 
 
 """
