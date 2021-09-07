@@ -198,7 +198,7 @@ async def bot_status(client,message):
         disk = ""
 
     await message.reply_text(
-        "**Current status of your bot!**\n\n"
+        "**Bro This Is The Current Status Of Your Bot!**\n\n"
         f"> __**{filters}** filters across **{chats}** chats__\n\n"
         f"{userstats}"
         f"> __BOT Uptime__ : **{uptime}**\n\n"
@@ -249,6 +249,7 @@ async def help(client, message):
                 [
                     InlineKeyboardButton("Official Channel", url="https://t.me/storytimeoG"),
                     InlineKeyboardButton("PRIMER ROOM SERIES UPDATES", url="https://t.me/PRIMER_ROOM")
+                    InlineKeyboardButton("BACK", callback_data="START_MSG"),
                 ]
             ]
         ),
