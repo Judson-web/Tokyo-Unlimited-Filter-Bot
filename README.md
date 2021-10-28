@@ -8,13 +8,13 @@
   </a>
 </p>
 <p align="center">
-  <a href="https://github.com/Judson-web/Unlimited-Filter-Bot/stargazers">
+  <a href="https://github.com/Judson-web/Tokyo/stargazers">
     <img src="https://img.shields.io/github/stars/Judson-web/Unlimited-Filter-Bot?style=social">
 
   </a>
   
-  <a href="https://github.com/Judson-web/Unlimited-Filter-Bot/fork">
-    <img src="https://img.shields.io/github/forks/Judson-web/Unlimited-Filter-Bot?label=Fork&style=social">
+  <a href="https://github.com/Judson-web/Tokyo/fork">
+    <img src="https://img.shields.io/github/forks/github.com/Judson-web/Tokyo?label=Fork&style=social">
 
   </a>  
 </p>
@@ -23,7 +23,7 @@
 ㅤㅤㅤㅤㅤㅤㅤ  
 [![TroJanz](https://img.shields.io/badge/Rules-s%E1%B4%9B%E1%B4%8F%CA%80%CA%8F%20%E1%B4%9B%C9%AA%E1%B4%8D%E1%B4%87%20%E1%B4%84%CA%9C%E1%B4%80%C9%B4%C9%B4%E1%B4%87%CA%9F-yellowgreen?style=flat&logo=CodersRank)](https://telegra.ph/STM-FAMILY-RULES-08-19)  
 ㅤㅤㅤㅤㅤㅤㅤ  
-[![MIT license](https://img.shields.io/badge/License-MIT-blue?style=flat)](https://github.com/Judson-web/Unlimited-Filter-Bot/blob/main/LICENSE)  [![Open Source](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/Judson-web/Unlimited-Filter-Bot)
+[![MIT license](https://img.shields.io/badge/License-MIT-blue?style=flat)](https://github.com/Judson-web/Tokyo/blob/main/LICENSE)  [![Open Source](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/Judson-web/Tokyo)
 
 
 ## An advanced Filter Bot with nearly unlimitted filters!
@@ -71,19 +71,10 @@
 
 * `/info <userid>`  -  Shows User Information. Also use `/info` as reply to some message for their details!
 
-
-## You can check the video tutorial on how to deploy
-
-[Click here to see tutorial video](https://youtu.be/hkmc3e7U7R4)
-
-Thanks to [TroJanzHEX](https://telegram.dog/TroJanzHEX) and [Erich Daniken](https://telegram.dog/ErichDaniken) also
-
-[[★] ᴘᴇᴀᴋʏ вℓιи∂єя [★]](https://telegram.dog/PEAKY_BLINDER_TGP)
-
 ## Installation
 
 ### Deploy to Heroku
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/TroJanzHEX/Unlimited-Filter-Bot)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Judson-web/Tokyo)
 
 ### Deploy in your vps
 ```sh
