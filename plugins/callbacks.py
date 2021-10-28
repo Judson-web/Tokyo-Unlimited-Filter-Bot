@@ -69,12 +69,10 @@ async def cb_handler(client, query):
         keyboard = InlineKeyboardMarkup(
             [
                 [
-                    InlineKeyboardButton(
-                        "SOURCE CODE VENO 😇", url="https://t.me/NOKIERUNNOIPPKITTUM")
+                    InlineKeyboardButton("CLOSE", callback_data="close_data"),
                 ],
                 [
                     InlineKeyboardButton("BACK", callback_data="help_data"),
-                    InlineKeyboardButton("CLOSE", callback_data="close_data"),
                 ]                
             ]
         )
