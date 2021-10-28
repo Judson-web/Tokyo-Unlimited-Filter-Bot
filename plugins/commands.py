@@ -243,7 +243,7 @@ async def help(client, message):
         reply_markup=InlineKeyboardMarkup(
             [
                 [
-                    InlineKeyboardButton("🎥 sᴛᴏʀʏ ᴛɪᴍᴇ ᴄʜᴀɴɴᴇʟ🎥", url="https://t.me/storytym"),
+                    InlineKeyboardButton("Back", callback_data="start_data"),
                     InlineKeyboardButton("About Me", callback_data="about_data")
                 ],
                 [
