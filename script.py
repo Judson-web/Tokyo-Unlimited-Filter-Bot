@@ -26,14 +26,12 @@ class Script(object):
 
 <code>/viewfilters</code>  -  List all filters in chat
 
-
 <b>Connection Commands;</b>
 
 <code>/connect groupid</code>  -  Connect your group to my PM. You can also simply use,
 <code>/connect</code> in groups.
 
 <code>/connections</code>  -  Manage your connections.
-
 
 <b>Extras;</b>
 
