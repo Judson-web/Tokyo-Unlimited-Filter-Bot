@@ -6,7 +6,7 @@ class Script(object):
 
 
     HELP_MSG = """
-<i>What is a filter bot?</i>
+<i>**What is a filter bot?**</i>
 
 <b>A bot were group admins can set replies for a particular keyword and the bot will automatically send preset replies whenever that keyword enountered in the chat.</b>
 
