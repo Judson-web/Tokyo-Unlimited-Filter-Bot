@@ -12,9 +12,9 @@ class Script(object):
 
 <b>Usual commands:</b>
 
-/start - ```Check if I'm alive!```
-/help - ```Command help```
-/about - ```Something about me!```
+/start - Check if I'm alive!
+/help - Command help!
+/about - Something about me!
 """
 
 
