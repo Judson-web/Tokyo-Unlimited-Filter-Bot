@@ -217,7 +217,7 @@ async def start(client, message):
         reply_markup=InlineKeyboardMarkup(
             [
                 [
-                    InlineKeyboardButton("Command Help", callback_data="help_data")
+                    InlineKeyboardButton("Let's roll", url= "https://t.me/BetterFilter1_bot?startgroup=botstart")
                 ]
             ]
         ),
