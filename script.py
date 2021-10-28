@@ -18,7 +18,7 @@ class Script(object):
 """
 
 
-    ABOUT_MSG = """<b>🙋🏻‍♂️ 𝘏𝘦𝘭𝘭𝘰 {},
+    ABOUT_MSG = """<b>**🙋🏻‍♂️ 𝘏𝘦𝘭𝘭𝘰**,
     
 ⭕️<b>My Name :</b> Filter Bot</b>
 
