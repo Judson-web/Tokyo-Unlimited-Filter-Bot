@@ -265,7 +265,7 @@ async def about(client, message):
         reply_markup=InlineKeyboardMarkup(
             [
                 [
-                    InlineKeyboardButton("CLOSE", callback_data="close_data"),
+                    InlineKeyboardButton("Close", callback_data="close_data"),
                 ],
                 [
                     InlineKeyboardButton("Back", callback_data="help_data"),
