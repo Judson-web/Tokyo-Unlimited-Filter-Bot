@@ -52,7 +52,7 @@ async def cb_handler(client, query):
                 ],
                 [
                     InlineKeyboardButton("Official Channel", url="https://t.me/storytimeoG"),
-                    InlineKeyboardButton("About Me", callback_data="filters")
+                    InlineKeyboardButton("filters", callback_data="filters")
                 ]
             ]
         )
