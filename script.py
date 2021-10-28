@@ -58,3 +58,23 @@ class Script(object):
 
 ⭕️<b>Library :</b> <a href='https://docs.pyrogram.org/'>Pyrogram 1.0.7</a> 
 """
+    
+    FILTERS_MSG = """<b>**Filters:**,
+
+<b>Filter is the feature were users can set automated replies for a particular keyword and the bot will respond whenever a keyword is found the message</b>
+
+<b>**NOTE:**</b>
+<b>1. bot should have admin privillage in order to reply filters in a chat.</b>
+<b>2. only admins can add filters in a chat.<b/>
+<b>3. filters does support all the telegram markdowns, medias and buttons.</b>
+<b>4. alert buttons are also supported with a limit of 64 characters.</b>
+<b>5. there are some easter eggs, try to find it out.</b>
+
+<b>**Commands and Usage:**</b>
+<code>/add</code>   - add a filter
+<code>/view</code> - list all the filters of a chat
+<code>/del</code>  - delete a specific filter (separate keywords with spaces for deleting multiple filters at a time)
+<code>/delall</code> - delete the whole filters in a chat (chat owner only)
+"""
+    
+    
