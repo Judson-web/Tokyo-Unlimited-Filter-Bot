@@ -247,7 +247,7 @@ async def help(client, message):
                     InlineKeyboardButton("About Me", callback_data="about_data")
                 ],
                 [
-                    InlineKeyboardButton("Official Channel", url="https://t.me/storytimeoG"),
+                    InlineKeyboardButton("Support Group", url="https://t.me/STMbOTsUPPORTgROUP"),
                     InlineKeyboardButton("filters", callback_data="filters")
               
                 ]
@@ -265,8 +265,7 @@ async def about(client, message):
         reply_markup=InlineKeyboardMarkup(
             [
                 [
-                    InlineKeyboardButton(
-                        "SOURCE CODE VENO 😇", url="https://t.me/NOKIERUNNOIPPKITTUM")
+                    InlineKeyboardButton("CLOSE", callback_data="close_data"),
                 ],
                 [
                     InlineKeyboardButton("Back", callback_data="help_data"),
