@@ -248,7 +248,7 @@ async def help(client, message):
                 ],
                 [
                     InlineKeyboardButton("Official Channel", url="https://t.me/storytimeoG"),
-                    InlineKeyboardButton("PRIMER ROOM SERIES UPDATES", url="https://t.me/PRIMER_ROOM")
+                    InlineKeyboardButton("filters", callback_data="filters")
               
                 ]
             ]
@@ -269,8 +269,7 @@ async def about(client, message):
                         "SOURCE CODE VENO 😇", url="https://t.me/NOKIERUNNOIPPKITTUM")
                 ],
                 [
-                    InlineKeyboardButton("BACK", callback_data="help_data"),
-                    InlineKeyboardButton("CLOSE", callback_data="close_data"),
+                    InlineKeyboardButton("Back", callback_data="help_data"),
                 ]                
             ]
         ),
