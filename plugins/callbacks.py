@@ -30,7 +30,7 @@ async def cb_handler(client, query):
         keyboard = InlineKeyboardMarkup(
             [
                 [
-                    InlineKeyboardButton("Command Help", callback_data="help_data")
+                    InlineKeyboardButton("Let's roll", url= "https://t.me/BetterFilter1_bot?startgroup=botstart")
                 ]
             ]
         )
@@ -47,15 +47,15 @@ async def cb_handler(client, query):
         keyboard = InlineKeyboardMarkup(
             [
                 [
-                    InlineKeyboardButton("🎥 sᴛᴏʀʏ ᴛɪᴍᴇ ᴄʜᴀɴɴᴇʟ🎥", url="https://t.me/storytym"),
+                    InlineKeyboardButton("Back", callback_data="start_data"),
                     InlineKeyboardButton("About Me", callback_data="about_data")
                 ],
                 [
-                    InlineKeyboardButton("Official Channel", url="https://t.me/storytimeoG"),
+                    InlineKeyboardButton("Support Group", url="https://t.me/STMbOTsUPPORTgROUP"),
                     InlineKeyboardButton("filters", callback_data="filters")
+              
                 ]
             ]
-        )
 
         await query.message.edit_text(
             Script.HELP_MSG,
@@ -69,10 +69,10 @@ async def cb_handler(client, query):
         keyboard = InlineKeyboardMarkup(
             [
                 [
-                    InlineKeyboardButton("CLOSE", callback_data="close_data"),
+                    InlineKeyboardButton("Close", callback_data="close_data"),
                 ],
                 [
-                    InlineKeyboardButton("BACK", callback_data="help_data"),
+                    InlineKeyboardButton("Back", callback_data="help_data"),
                 ]                
             ]
         )
@@ -90,7 +90,7 @@ async def cb_handler(client, query):
             [
                 [
                     InlineKeyboardButton(
-                        "BACK", callback_data="help_data"),
+                        "Back", callback_data="help_data"),
                 ]                
             ]
         )
