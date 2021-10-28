@@ -44,7 +44,7 @@ class Script(object):
 """
 
 
-    ABOUT_MSG = """<b>**🙋🏻‍♂️ 𝘏𝘦𝘭𝘭𝘰** message.from_user.first_name,
+    ABOUT_MSG = """<b>**🙋🏻‍♂️ Hlo Welcome**,
     
 ⭕️<b>My Name :</b> Filter Bot</b>
 
