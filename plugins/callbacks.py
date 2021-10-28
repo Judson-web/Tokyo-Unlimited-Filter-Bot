@@ -86,7 +86,7 @@ async def cb_handler(client, query):
         )
         return
     
-        elif query.data == "filters_data":
+        elif query.data == "filters":
         await query.answer()
         keyboard = InlineKeyboardMarkup(
             [
