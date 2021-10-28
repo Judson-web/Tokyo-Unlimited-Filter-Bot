@@ -53,11 +53,11 @@ async def cb_handler(client, query):
                 [
                     InlineKeyboardButton("Support Group", url="https://t.me/STMbOTsUPPORTgROUP"),
                     InlineKeyboardButton("filters", callback_data="filters")
-                ]                
+                ]
             ]
         )
-        
-       await query.message.edit_text
+
+        await query.message.edit_text(
             Script.HELP_MSG,
             reply_markup=keyboard,
             disable_web_page_preview=True
